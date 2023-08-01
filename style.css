@@ -5,6 +5,7 @@ body{
 }
 .user input[type="file"]{
     display: none;
+    
 }
 .user label{
     color: white;
